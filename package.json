@@ -1,14 +1,14 @@
 {
-  "name": "nupic-js",
+  "name": "travis-js",
   "version": "0.0.1",
   "description": "JavaScript port of NuPIC",
   "license": "GPL-3.0",
-  "repository": "iandanforth/nupic-js",
+  "repository": "ONS-Tom/travis-js",
   "bugs": { "url" : "http://github.com/iandanforth/nupic-js/issues"
   },
   "author": {
-    "name": "Ian Danforth",
-    "email": "iandanforth@gmail.com"
+    "name": "Tom C",
+    "email": "tomc@gmail.com"
   },
   "engines": {
     "node": ">=0.10.0"
