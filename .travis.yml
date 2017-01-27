@@ -1,6 +1,4 @@
-language: php
-php:
-  - 5.5
-  - 5.4
-  - hhvm
-script: phpunit Test.php
+before_script:
+  - sudo npm install -g grunt
+
+script: grunt test --verbose --force
